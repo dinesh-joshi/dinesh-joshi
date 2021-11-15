@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science projects in the Healthcare domain!
 - 📫 How to reach me-->
      Email-id: jdinesh868@gmail.com
-     LinkedIn: https://www.linkedin.com/in/dinesh-joshi-7bb9b911a/
+     LinkedIn: https://www.linkedin.com/in/dinesh-joshi11/
      Twitter:  https://twitter.com/jdinesh868
 
 <!---
